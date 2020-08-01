@@ -1,4 +1,9 @@
 # FlappyBird_NEAT
-Flappy Bird game with Neural Network
+
+Flappy Bird game which trains itself with the NEAT_Algorythm and the use of a neural network
+
 python version used: 3.5
+
 pip packages needed: pygame, neat-python
+
+
